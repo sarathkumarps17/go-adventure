@@ -1,0 +1,16 @@
+mode: set
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:39.47,41.23 2 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:41.23,43.3 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:44.2,44.17 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:50.59,52.2 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:58.46,62.2 3 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:65.37,67.2 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:69.39,71.2 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:73.41,75.2 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:77.31,79.32 2 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:79.32,81.3 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:87.79,89.16 2 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:89.16,91.3 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:92.2,92.45 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:92.45,94.3 1 1
+github.com/sarathkumar17/go-adventure/pkg/adventure/adventure.go:95.2,95.34 1 1
